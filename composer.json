@@ -1,0 +1,27 @@
+{
+  "name": "skimia/laposte",
+  "description": "Fournis les developpements pour integrer Système Client Courrier Relationnel (WT) Courrier Tracé En Nombre et Egrené avec déclaration électronique",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Kessler Dev",
+      "email": "kessler.dev@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4":{
+      "Skimia\\LaPoste\\" : "src"
+    },
+    "classmap": [
+      "tests/TestCase.php"
+    ]
+  },
+  "require": {
+    "symfony/finder": "2.5",
+    "phpunit/phpunit": "4.8.19",
+    "fzaninotto/faker": "^1.5",
+    "ensepar/html2pdf": "^4.0"
+  }
+}

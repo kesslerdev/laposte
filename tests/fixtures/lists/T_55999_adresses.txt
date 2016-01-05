@@ -1,0 +1,100 @@
+Christophe Diaz;5, avenue Pages;;;;36431;Goncalves;+33 7 06 46 74 25;Franck29@Henry.net;180
+Danielle Mendes;309, impasse Turpin;;;;54092;Pascal-la-Forêt;+33 (0)4 18 58 31 86;tMerle@bouygtel.fr;150
+Grégoire Traore;16, boulevard de Ollivier;;;;60224;Coste-sur-Mer;06 21 43 91 20;Susan.Toussaint@sfr.fr;157
+Augustin Leconte;57, boulevard Anastasie Bonnin;;;;24146;Laine-sur-Mer;0898010575;Michelle09@Fleury.com;158
+Adrien Evrard;90, rue Augustin Dufour;;;;42801;NavarroBourg;+33 (0)4 86 72 84 01;Seguin.Catherine@tele2.fr;80
+Sabine Guillou;99, impasse Hortense Normand;;;;57867;Lesage-les-Bains;0357618897;Henriette.Begue@voila.fr;59
+Valérie Descamps;57, place de Le Roux;;;;73928;Parent;+33 8 62 95 93 37;LeGall.Eugene@live.com;114
+Éric Bernard;870, boulevard Delmas;;;;10581;Weissnec;04 36 23 70 75;Paris.Bernard@gmail.com;22
+François Chartier;449, rue de Blondel;;;;76467;Marty;+33 2 52 68 29 63;lGuichard@free.fr;47
+Roland Humbert;boulevard de Dumont;;;;59999;Brun-sur-Mer;+33 (0)1 30 10 35 57;Adrien67@Gomez.fr;165
+Sébastien Gilles;94, chemin de Pelletier;;;;52439;Hubert;09 67 14 80 80;Martin.Rousset@orange.fr;93
+Bertrand Langlois;rue Pages;;;;61110;Peltiernec;0156611272;aCollin@tiscali.fr;111
+Paulette Gimenez;94, rue Anaïs Colin;;;;94599;Grondinnec;04 41 44 75 51;Anouk35@Fournier.com;117
+Dominique Courtois;14, rue de Delannoy;;;;45997;Traore-la-Forêt;0805049951;Gilbert.Leconte@voila.fr;35
+Claudine Neveu;92, impasse de Michaud;;;;379;Schneider-les-Bains;0864874336;Louis.Pons@orange.fr;37
+Christine Bernard;811, avenue Pons;;;;7926;Bodin;+33 2 27 00 59 43;Pierre75@Jacob.com;161
+Bernadette Bazin;94, avenue Paris;;;;69867;Petitjean-les-Bains;+33 7 11 76 29 39;Grenier.Helene@free.fr;91
+Édouard Bernier;36, rue de Bailly;;;;56763;Da Silva-sur-Mer;0616224903;Gilles38@free.fr;31
+Michèle Grondin;rue Da Silva;;;;87068;HoareauVille;04 45 71 43 08;gFleury@tiscali.fr;104
+Alex Marchal;impasse de Normand;;;;78572;Delormenec;+33 6 01 54 48 32;Martine64@yahoo.fr;153
+Élisabeth Leveque;15, chemin Gay;;;;47682;Delattre;+33 (0)8 42 75 31 48;Therese90@Ferreira.org;52
+Julien Guerin;55, rue Joseph;;;;65966;BoutinVille;+33 2 24 21 44 29;Christophe25@Rodrigues.com;193
+Charles Maurice;910, rue de Dumont;;;;78021;Le Roux;04 84 37 19 82;Laure32@Vidal.com;185
+Emmanuelle Besson;55, avenue de Fernandes;;;;25953;Leduc;0281989818;Lorraine23@free.fr;179
+Noémi Costa;621, place Hortense Gerard;;;;81094;Marynec;06 65 22 77 78;Neveu.Thibault@laposte.net;92
+Denis Bonneau;92, boulevard Bonnet;;;;57205;Joubert;0222950146;Jacqueline.Potier@sfr.fr;128
+Margot Guibert;67, place de Blanc;;;;89770;Mallet-la-Forêt;0487764862;Riviere.Benoit@Nicolas.fr;22
+Cécile Godard;653, place Labbe;;;;1887;Levy-sur-Maury;+33 (0)7 03 36 01 38;Frederique.Begue@club-internet.fr;174
+Monique Bouvet;433, chemin Leger;;;;36054;Mendes-les-Bains;04 88 11 35 95;Jean38@Fischer.com;143
+Lucy Muller;5, boulevard Marthe Charles;;;;61531;Techer;05 39 20 90 25;Susan.Ferrand@Regnier.fr;83
+Susanne Vincent;49, boulevard de Collet;;;;56810;Pages;+33 4 04 05 65 91;Auger.Nathalie@Descamps.fr;38
+Margaud Laine;190, impasse Chauvin;;;;87935;Guillot-sur-Mer;+33 (0)7 48 93 82 28;xCaron@Guillou.fr;99
+Hugues Herve;rue Jules Besnard;;;;46870;Robin;0545420031;Lefebvre.Zoe@bouygtel.fr;39
+Daniel Antoine;3, place Godard;;;;59072;Levy-la-Forêt;0939701863;Guy83@orange.fr;80
+Marianne Masson;23, place Labbe;;;;6868;Turpinboeuf;0141291392;xCosta@Martel.fr;35
+Brigitte Lacombe;rue Alves;;;;48043;Gosselin;08 44 93 05 42;Yves76@Petit.com;96
+Louise Jacob;90, boulevard Tessier;;;;73470;Etienne;0632461208;Susanne52@free.fr;34
+Jean Launay;8, rue Nathalie Pottier;;;;35833;Bernard-la-Forêt;09 37 13 51 26;Pierre91@laposte.net;51
+Claude Caron;62, rue Aimé Levy;;;;7093;Lopezdan;+33 1 66 43 86 46;Dominique79@ifrance.com;142
+Arthur Descamps;45, avenue de Lebrun;;;;73376;Gautier-sur-Duhamel;+33 4 06 54 01 24;Pierre69@Bigot.net;142
+Gabrielle Leconte;31, avenue Jean;;;;38455;Bailly-sur-Mer;+33 2 65 65 53 50;Philippine.Vidal@Torres.fr;50
+Christiane Ferrand;place Leleu;;;;39494;Lefebvre;+33 7 77 10 61 50;Delahaye.Luce@Nicolas.net;103
+Christelle Weber;28, impasse de Moreau;;;;32760;ImbertVille;09 30 94 04 43;sPascal@wanadoo.fr;188
+Richard Bonnin;22, rue Clement;;;;2829;Schmittnec;0216735665;Robert.Weiss@Allard.com;65
+Michel Gomes;907, boulevard Roux;;;;86459;Bonneau;01 74 66 49 16;Bonnin.Mathilde@Besnard.com;137
+Marie Imbert;8, rue Le Roux;;;;65898;LombardBourg;0399156757;Jacques.Boyer@sfr.fr;83
+Roland Antoine;8, chemin Julien Blondel;;;;25016;Guyon;0335071467;tRenard@tele2.fr;56
+Olivie Thierry;663, chemin de Courtois;;;;89044;Ollivier-sur-Ruiz;+33 6 42 20 18 95;Marcel90@live.com;67
+Sébastien Royer;12, rue Lefebvre;;;;31259;Becker-sur-Mer;+33 2 54 35 27 06;Hamon.Capucine@live.com;185
+Odette Adam;74, boulevard Luc Da Silva;;;;10814;Allaindan;03 34 52 58 27;Thomas93@laposte.net;175
+Jean Benard;90, boulevard Launay;;;;48237;Gimeneznec;+33 (0)8 50 22 14 75;Astrid.Wagner@Collin.fr;103
+Danielle Jacquet;102, rue Marion;;;;86762;Charpentier-sur-Mer;+33 4 60 73 97 66;Valentine.Allain@voila.fr;97
+Thibault Albert;18, rue Étienne Leclerc;;;;11465;Duhamel-sur-Rocher;0412857483;Benoit.Denis@Roussel.fr;162
+Auguste Berger;11, rue de Bourgeois;;;;34831;Joly;+33 4 89 00 65 20;Thibaut14@Leconte.com;129
+Aurore Chretien;144, rue Nguyen;;;;89297;Menard-sur-Mathieu;04 77 26 63 28;Jacqueline.Barbier@Evrard.net;99
+Noël Lecoq;9, boulevard de Marin;;;;86398;Maillarddan;+33 2 67 33 72 76;nLacroix@yahoo.fr;121
+Victoire Marin;86, avenue de Ollivier;;;;39431;Descamps;+33 4 15 85 77 45;Philippine18@dbmail.com;169
+Madeleine Bazin;66, avenue Noémi Dias;;;;30621;Lebreton;08 17 47 32 24;Noel77@DeSousa.fr;55
+Philippine Mary;719, rue Maillard;;;;148;Alves;+33 1 58 05 78 62;Adrien.Ollivier@Dijoux.org;86
+Édouard Collet;17, place Pineau;;;;95490;Caron;0774471423;Lefevre.Thibaut@gmail.com;42
+Luc Joly;6, place Matthieu Gomez;;;;63726;Bigot;+33 (0)8 01 17 10 13;Matthieu.Bonnet@Clement.net;37
+Louise Berger;71, avenue de Merle;;;;45790;Gaudin;0821645272;zCamus@Blondel.com;71
+Jean Brun;54, avenue Leroy;;;;75330;Duprenec;+33 3 17 22 37 19;Maggie87@Breton.com;180
+André Bourgeois;72, boulevard de Lopes;;;;24366;AlbertBourg;+33 (0)1 71 15 58 89;mRemy@club-internet.fr;33
+Théophile Gimenez;55, rue Danielle Allard;;;;88632;Costa;+33 (0)3 39 89 70 59;aDijoux@gmail.com;143
+Pierre Blin;7, impasse Agathe Teixeira;;;;15792;DelaunayBourg;08 99 88 58 45;Oceane55@Joseph.com;97
+Théophile Gimenez;59, avenue de Lemonnier;;;;40039;Perrin-les-Bains;0107512506;Leclerc.Xavier@Perret.org;42
+Margaud Legros;20, avenue de Charles;;;;71570;Verdiernec;0483558616;Theophile95@Legros.com;148
+Roger Poirier;52, rue Perez;;;;2786;Bazin;+33 1 23 14 98 24;Corinne.Robert@free.fr;181
+Nathalie Payet;718, rue Garnier;;;;59999;PeronBourg;+33 2 94 85 68 96;Marine68@club-internet.fr;66
+Claude Charpentier;90, avenue Langlois;;;;5939;Mathieu;0476164904;jMasse@club-internet.fr;180
+Grégoire Gaudin;7, rue André Morel;;;;84097;Rodrigues;09 62 77 78 67;Humbert.Zacharie@hotmail.fr;163
+Diane Marin;27, avenue Louis;;;;33273;BertinBourg;0264109753;qLamy@free.fr;139
+Gabriel Maillot;590, impasse Arnaude Pelletier;;;;59999;Michaud-sur-Mer;+33 (0)8 78 99 75 47;Lefort.Martine@Garcia.fr;108
+Aurore Boutin;rue de Collin;;;;36727;Besson;07 91 57 90 54;Herve.Paul@laposte.net;130
+René Delahaye;516, avenue de Moreau;;;;73069;ChretienVille;+33 (0)1 50 37 93 06;Brun.Denise@tele2.fr;109
+Vincent Gay;72, rue Laurent Renault;;;;30775;Didier;07 59 56 07 66;Jean30@live.com;106
+Céline Perez;39, rue Guyot;;;;37035;Clercnec;03 22 69 48 40;Raymond03@yahoo.fr;67
+Claudine Seguin;95, place de Chauveau;;;;16408;AubertVille;02 65 03 05 40;Laurent.Marechal@Torres.fr;24
+Nicolas Rossi;55, boulevard Godard;;;;81871;Poirier;0253109954;Diaz.Anouk@Joubert.fr;62
+Margaret Robin;44, impasse de Toussaint;;;;17705;Gomes-sur-Potier;+33 1 29 58 48 91;yLopez@tiscali.fr;112
+Emmanuel Giraud;67, chemin Descamps;;;;23378;Dufour;01 66 07 31 54;eSamson@Diallo.fr;164
+Jean Germain;31, avenue de Bousquet;;;;81321;Leconte;06 23 36 45 81;Matthieu.Blot@Cousin.fr;109
+Philippine Imbert;62, rue Colette Marie;;;;39815;Morel-sur-Wagner;04 80 31 60 45;Charles.Genevieve@sfr.fr;190
+Pénélope Carpentier;place Devaux;;;;51382;BodinVille;+33 (0)6 02 33 89 40;lSalmon@club-internet.fr;121
+Célina Hoareau;6, place de Julien;;;;48743;Garcia-les-Bains;+33 (0)8 05 85 30 12;lRiviere@tele2.fr;12
+Stéphane Coste;94, boulevard Vallet;;;;6362;Perretboeuf;01 29 81 17 23;Hortense71@noos.fr;43
+Inès Brun;chemin Julie Raynaud;;;;29603;Le Gall-sur-Louis;+33 9 98 35 57 60;Cohen.Antoine@ifrance.com;27
+Gilles Boulay;39, boulevard de Guillaume;;;;80886;Tessier-la-Forêt;+33 (0)1 22 18 79 27;Mendes.Christelle@Langlois.com;108
+Jacqueline Louis;7, impasse Emmanuel Merle;;;;75218;Gay;+33 (0)5 38 50 19 63;Arnaude.Remy@wanadoo.fr;29
+Nathalie Rousset;6, boulevard Marcel Lelievre;;;;17571;Joly-les-Bains;+33 (0)6 53 69 06 15;Thibault.Raynaud@ifrance.com;91
+Tristan Albert;29, boulevard Paris;;;;632;Lesage-la-Forêt;03 70 75 01 41;Roger84@Martins.com;139
+Matthieu Dias;67, chemin Fischer;;;;52789;Berger-sur-Mer;0911228736;dSauvage@sfr.fr;139
+Matthieu Peron;28, avenue Masse;;;;23586;Camus;+33 (0)7 51 43 82 10;Camus.Henriette@Moulin.fr;143
+Caroline Morin;8, chemin Auguste Berger;;;;76302;Ferrand;08 12 12 19 74;Arthur17@dbmail.com;62
+Alexandria Paris;place Dupuis;;;;59999;Devaux;0193275751;Jacques52@Leclerc.fr;181
+Élise Hardy;952, avenue Marcelle Pages;;;;55360;Weber-les-Bains;01 71 02 98 34;Claude.Louis@Guillot.org;29
+Andrée Lebon;25, rue Paul Marques;;;;31695;Duhamel;+33 (0)8 01 87 85 13;Olivier.Robin@Clement.org;175
+Stéphane Bertin;impasse Bourgeois;;;;50674;Dufour;04 54 10 28 25;uRolland@Menard.fr;50
+Édouard Georges;59, place Thomas Lemaire;;;;13483;BlancBourg;+33 (0)4 72 80 21 48;Chauveau.Aurelie@wanadoo.fr;153

@@ -1,0 +1,22 @@
+806/05/2015
+ET1;En cours de Traitement 
+MD1;Mis en Distribution 
+EP1;En attente de seconde Présentation 
+DI1;Distribué 
+AG1;Attend d'être retiré au Guichet 
+RE1;Retourné à l'Expéditeur pour cause d'adresse incorrecte
+RE2;Retourné à l'Expéditeur pour cause d'accès à la boîte aux lettres impossible
+RE3;Retourné à l'Expéditeur pour cause de boîte aux lettres non identifiable
+RE4;Retourné à l'Expéditeur pour cause de refus à l'adresse
+RE5;Retourné à l'Expéditeur pour cause de dépassement de délai d'instance
+RE6;Retourné à l'Expéditeur pour cause de refus de paiement
+RE7;Retourné à l'Expéditeur suite à des recherches de La Poste
+RE8;Retourné à l'Expéditeur sur demande de l'expéditeur
+RD1;Renvoyé vers la bonne Destination suite à correction de l'adresse par La Poste
+RD2;Renvoyé vers la bonne Destination sur demande de l'expéditeur
+PC1;Pris en Charge  
+PD1;Pli manquant au Dépôt 
+ND1;Non Distribuable En attente d'un contact client auprès du service Consommateurs
+ND2;Non Distribuable Délai de conservation expiré (CGV)
+MD2;Pli présenté
+PC2;Départ

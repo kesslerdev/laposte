@@ -1,0 +1,12 @@
+806/05/2015
+020;Suivi IDS;2;1;1;0
+2C;Recommandé avec AR;1;2;1;1
+2D;Recommandé sans AR;1;2;1;1
+2E;Recommandé avec AR SBR;1;2;1;1
+2F;Recommandé sans AR SBR;1;2;1;1
+2K;Suivi IDT (En, CI);1;1;1;1
+2L;Suivi IDT (Eg);1;1;1;1
+2M;Signé;1;2;1;0
+3C;Recommandé Premium avec AR papier;1;2;1;0
+3D;Recommandé Premium sans AR;1;2;1;0
+4J;Valeur Déclarée IDT;1;2;0;1
