@@ -54,6 +54,11 @@ class LaPosteTestEnvelope implements EnvelopeInterface
     {
         return $this->trackingNumber ? $this->trackingNumber : false;
     }
+    
+    public function hasTrackingNumber()
+    {
+        return $this->trackingNumber !== null;
+    }
 
     public function getFullAddress()
     {

@@ -51,7 +51,8 @@ class Deposit
 
         $envelopes = $this->envelopes->getEnvelopes();
         foreach ( $envelopes as &$envelope) {
-            $envelope->setTrackingNumber($this->getNewCode($this->commercialProduct->getProductCode(),$envelope));
+            if(!$envelope->hasTrackingNumber())
+                $envelope->setTrackingNumber($this->getNewCode($this->commercialProduct->getProductCode(),$envelope));
         }
 
     }

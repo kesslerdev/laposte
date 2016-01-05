@@ -17,6 +17,8 @@ interface EnvelopeInterface
 
     public function setTrackingNumber($tracking);
     public function getTrackingNumber();
+    public function hasTrackingNumber();
+    
     public function getCustomInfo();
 
     public function getCustomLine($full = false);
