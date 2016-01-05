@@ -22,6 +22,7 @@
     "symfony/finder": "2.5",
     "phpunit/phpunit": "4.8.19",
     "fzaninotto/faker": "^1.5",
-    "ensepar/html2pdf": "^4.0"
+    "ensepar/html2pdf": "^4.0",
+    "philo/laravel-blade": "2.*"
   }
 }
