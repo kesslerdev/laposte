@@ -150,5 +150,9 @@ class Shipment
         $callable = $this->routine;
         return $callable($productID,$envelope);
     }
+    
+    public function getDeposits(){
+        return $this->deposits;
+    }
 
 }

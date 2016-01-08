@@ -2,6 +2,13 @@
 <project version="4">
   <component name="PublishConfigData">
     <serverData>
+      <paths name="DEDIE GSM Manager">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="GSM ACCESS">
         <serverdata>
           <mappings>
@@ -16,7 +23,7 @@
           </mappings>
         </serverdata>
       </paths>
-      <paths name="alvecom DEDIE GSM Manager">
+      <paths name="[Bêta]DEDIE GSM Manager">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
