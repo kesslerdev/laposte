@@ -11,6 +11,7 @@ class Printer
 {
     protected $html2pdf;
     protected $blade;
+    protected $htmlWrited = false;
 
     public function loadContainers(array $containers){
         $html = $this->containersHTML($containers);
@@ -20,6 +21,7 @@ class Printer
         $this->html2pdf->pdf->SetDisplayMode('fullwidth');
         //$html2pdf->setModeDebug();
         $this->html2pdf->writeHTML($html,false);
+        $this->htmlWrited  = true;
     }
 
     public function loadEnvelopes($envelopes,callable $custinfos = null){
@@ -64,14 +66,14 @@ class Printer
         ])->render();
     }
 
-    protected function envelopesHTML(ListInterface $envelopes,callable $custinfos = null){
+    protected function envelopesHTML( $envelopes,callable $custinfos = null){
         if(!isset($custinfos))
             $custinfos = function($envelop){return $envelop->getCustomInfo();};
 
         $blade = $this->getBlade();
 
         return $blade->view()->make('envelopes',[
-            'envelopes' => $envelopes->getEnvelopes(),
+            'envelopes' => is_subclass_of($envelopes, 'Skimia\LaPoste\Lists\ListInterface') ? $envelopes->getEnvelopes():$envelopes,
             'info' => $custinfos
         ])->render();
     }
