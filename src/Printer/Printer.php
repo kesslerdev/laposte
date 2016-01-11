@@ -28,8 +28,8 @@ class Printer
 
         $html = $this->envelopesHTML($envelopes,$custinfos);
 
-        $path = __DIR__ . '/../../cache/e-volop.html';
-        file_put_contents($path,$html);
+        /*$path = __DIR__ . '/../../cache/e-volop.html';
+        file_put_contents($path,$html);*/
         $this->html2pdf = new \HTML2PDF('P', 'A4', 'fr', true, 'UTF-8', 0);
 
         $this->html2pdf->pdf->SetDisplayMode('fullwidth');
