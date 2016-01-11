@@ -43,7 +43,13 @@ class Printer
     protected function getBlade(){
         if(!isset($this->blade)){
             $views = __DIR__ . '/../../views';
-            $cache = __DIR__ . '/../../cache';
+            if(function_exists('storage_path'))
+                $cache = storage_path() .'/cache';
+            else
+                $cache = __DIR__ . '/../../cache';
+
+            if(!file_exists($cache))
+                mkdir($cache,0777,true);
 
             $this->blade = new Blade($views, $cache);
         }
