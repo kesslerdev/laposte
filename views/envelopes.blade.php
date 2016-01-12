@@ -103,17 +103,6 @@
                         </div>
                         <div class="info">
                             {{$info($tc)}}
-                            <?php /*@if(is_array($tc['product']))
-                                <strong>{{$tc['product']['qty']}}</strong> x <i>{{$tc['product']['reference']}}</i>
-                                <strong>{{$tc['product']['stock_position']}}</strong><br/>
-                                {{$tc['product']['expetarif']}} - {{$tc['product']['expepack']}}<br/>
-
-                                @if(isset($tc['product']['stock']) && $tc['product']['stock'] <= 10)[@if($tc['product']['stock'] < 4)<span style="color:orangered">@else<span style="color:darkgray">@endif{{$tc['product']['stock']}}</span>] @endif
-
-                                    @else
-                                        <strong>{{$tc['product']}}</strong> -
-                                @endif
-                                {{str_replace(['6_','7_','9_','8_'],['2_','3_','1_','amazon'],$tc['fiche'])}}*/?>
                         </div>
                     </div>
                     @endforeach
