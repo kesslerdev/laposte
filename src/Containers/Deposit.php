@@ -124,7 +124,7 @@ class Deposit
         $this->containers = [];
 
         if($this->isCustomProduct()){
-            //TODO: custom gestion des produit custom
+            return;
         }
         if($this->mailDropInNumber){}
         else{//egrene
