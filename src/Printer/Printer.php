@@ -24,11 +24,11 @@ class Printer
         $this->htmlWrited  = true;
     }
 
-    public function loadEnvelopes($envelopes,callable $custinfos = null){
+    public function loadEnvelopes($envelopes,callable $custinfos = null, callable $order = null){
         //SET CODE TRACKING
 
 
-        $html = $this->envelopesHTML($envelopes,$custinfos);
+        $html = $this->envelopesHTML($envelopes,$custinfos,$order);
 
         /*$path = __DIR__ . '/../../cache/e-volop.html';
         file_put_contents($path,$html);*/
@@ -66,14 +66,18 @@ class Printer
         ])->render();
     }
 
-    protected function envelopesHTML( $envelopes,callable $custinfos = null){
+    protected function envelopesHTML( $envelopes,callable $custinfos = null, callable $order = null){
         if(!isset($custinfos))
             $custinfos = function($envelop){return $envelop->getCustomInfo();};
 
         $blade = $this->getBlade();
+        $envelopes = is_subclass_of($envelopes, 'Skimia\LaPoste\Lists\ListInterface') ? $envelopes->getEnvelopes():$envelopes;
 
+        if(isset($order)){
+            usort($envelopes,$order);
+        }
         return $blade->view()->make('envelopes',[
-            'envelopes' => is_subclass_of($envelopes, 'Skimia\LaPoste\Lists\ListInterface') ? $envelopes->getEnvelopes():$envelopes,
+            'envelopes' => $envelopes,
             'info' => $custinfos
         ])->render();
     }
