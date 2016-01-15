@@ -23,6 +23,7 @@
     "phpunit/phpunit": "4.8.19",
     "fzaninotto/faker": "^1.5",
     "ensepar/html2pdf": "1.0.1",
-    "philo/laravel-blade": "2.*"
+    "philo/laravel-blade": "2.*",
+    "phpoffice/phpexcel": "1.8.1"
   }
 }

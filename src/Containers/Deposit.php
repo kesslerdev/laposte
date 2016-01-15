@@ -25,6 +25,8 @@ class Deposit
 
     protected $productionParams;
 
+    protected $number;
+
     /**
      * @var ListInterface
      */
@@ -56,10 +58,44 @@ class Deposit
         }
 
     }
+
+    /**
+     * @return mixed
+     */
+    public function getNumber()
+    {
+        return str_pad($this->number,6,'0',STR_PAD_LEFT);
+    }
     //endregion
+
+
+    public function setNumber($number){
+        $this->number = $number;
+    }
 
     public function isCustomProduct(){
         return $this->commercialProduct == false;
+    }
+
+    /**
+     * @return Shipment
+     */
+    public function getShipment(){
+        return $this->parent;
+    }
+
+    /**
+     * @return ProductionSiteParams
+     */
+    public function getSiteParams(){
+        return $this->productionParams;
+    }
+
+    /**
+     * @return bool|\Skimia\LaPoste\Params\Entries\ProductEntry
+     */
+    public function getProduct(){
+        return $this->commercialProduct;
     }
 
     //region Séléction mode d'envoi égréné ou en nombre
@@ -89,6 +125,10 @@ class Deposit
 
     public function setPostageMethod($method){
         $this->postageMethod = $method;
+    }
+
+    public function getPostageMethod(){
+        return $this->postageMethod;
     }
     //endregion
 

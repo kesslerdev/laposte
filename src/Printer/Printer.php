@@ -39,6 +39,7 @@ class Printer
         $this->html2pdf->writeHTML($html,false);
     }
 
+
     /**
      * @return Blade
      */
@@ -81,6 +82,8 @@ class Printer
             'info' => $custinfos
         ])->render();
     }
+
+
 
     public function write($file){
         return $this->html2pdf->Output($file,'F');

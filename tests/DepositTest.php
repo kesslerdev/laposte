@@ -1,6 +1,6 @@
 <?php
 use Skimia\LaPoste\Params\ParamsDirectoryBase;
-class ShipmentTest extends TestCase
+class DepositTest extends TestCase
 {
 
     protected $dirloader;
@@ -17,7 +17,7 @@ class ShipmentTest extends TestCase
         return $this->dirloader;
     }
 
-    protected function getDeposits(){
+    protected function getDeposit(){
 
         $this->shipment = new \Skimia\LaPoste\Containers\Shipment($this->getDirLoader());
         $this->shipment->setMaildropInGinned();
@@ -30,7 +30,6 @@ class ShipmentTest extends TestCase
         });
         $production = new \Skimia\LaPoste\Params\ProductionSiteParams(__DIR__.'/fixtures/conf/site1.php');
 
-        $production->setContactor('special');
 
         $this->makeTestList($filename);
         $listLoader = new \Skimia\LaPoste\Lists\Loader\LaPosteTestListLoader($filename);
@@ -40,28 +39,18 @@ class ShipmentTest extends TestCase
     public function testShipment(){
 
 
-        /*var_dump(array_keys($deposit->getContainers()));
-        die();*/
+        $printer = new \Skimia\LaPoste\Printer\DepositSlip();
+
+        $deposit = $this->getDeposit();
+        $deposit->setNumber(5555);
+        $printer->loadDeposit($deposit);
+        $printer->write(__DIR__.'/fixtures/slip/SLIP_WRITED.xls');
+        //var_dump($deposit);
+        die('FUCK');
 
     }
 
-    public function testPrinter(){
-        /*$printer = new \Skimia\LaPoste\Printer\Printer();
 
-        $deposit = $this->getDeposits();
-        $printer->loadContainers($deposit->getContainers());
-
-        $printer->write(__DIR__.'/../cache/containers.pdf');
-
-        $printer2 = new \Skimia\LaPoste\Printer\Printer();
-
-        $printer2->loadEnvelopes($deposit->getEnveloppes(),function($envelop){
-            return '<strong>CUSTOM INFO</strong><br><strong>bla bla bla</strong>';
-        });
-
-        $printer2->write(__DIR__.'/../cache/envelopes.pdf');*/
-
-    }
 
     public function makeTestList(&$fname = null){
         $fname = __DIR__.'/fixtures/lists/T_666_adresses.txt';

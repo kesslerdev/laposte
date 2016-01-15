@@ -23,6 +23,7 @@ class ProductionSiteContractor extends ProductionSiteWorker
     protected $european_identifier = false;
 
     protected $postage_contract_number = false;
+    protected $postage_account_number = false;
 
     public function __construct(array $arr)
     {
@@ -30,6 +31,7 @@ class ProductionSiteContractor extends ProductionSiteWorker
 
         $this->european_identifier = $arr['european_identifier'];
         $this->postage_contract_number = $arr['postage_contract_number'];
+        $this->postage_account_number = $arr['postage_account_number'];
 
     }
 
@@ -41,6 +43,12 @@ class ProductionSiteContractor extends ProductionSiteWorker
     public function getPostageContractNumber(){
         return $this->postage_contract_number;
     }
+
+    public function getPostageAccountNumber(){
+        return $this->postage_account_number;
+    }
+
+
 
     /**
      * @return ProductionSiteWorker

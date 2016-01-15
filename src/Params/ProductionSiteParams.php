@@ -82,4 +82,8 @@ class ProductionSiteParams
     public function setContactor($name){
         $this->current_contractor = $name;
     }
+
+    public function getMANumber(){
+        return $this->data['MA_number'];
+    }
 }
