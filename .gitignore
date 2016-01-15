@@ -1,3 +1,4 @@
 cache/*
 /vendor
+/vendor/*
 composer.phar
